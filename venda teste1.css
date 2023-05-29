@@ -1,0 +1,69 @@
+body {
+  margin: 0px;
+  font-size: 7px;
+}
+
+.navbar {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+}
+.rafalogo {
+  width: 300px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.pesquisa {
+  padding-left: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.navbar__titulo {
+  text-align: center;
+  width: 400px;
+}
+
+.photo {
+  width: 100%;
+  height: 200px;
+  background-color: #00ff00;
+}
+.imagenslego{
+  display: inline-block;
+}
+.imagemluffy {
+  width: 400px;
+  height: 200px;
+}
+.imagemzoro {
+  width: 400px;
+  height: 200px;
+}
+.luffy {
+  font-size: 40px;
+  padding-left: 100px;
+}
+.zoro {
+  font-size: 40px;
+  padding-left: 100px;
+}
+.imagemlaw {
+  width: 400px;
+  height: 200px;
+}
+.law {
+  font-size: 40px;
+  padding-left: 100px;
+}
+.imagemmanda {
+  width: 400px;
+  height: 200px;
+}
+.mandaloriano {
+  font-size: 40px;
+  padding-left: 100px;
+}

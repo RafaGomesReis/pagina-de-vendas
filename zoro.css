@@ -1,0 +1,35 @@
+
+body {
+  margin: 0px;
+  font-size: 25px;
+}
+div.img__div {
+  display: inline-block;
+}
+.img__div{
+  width: 300px;
+  height:150px;
+  margin:3px;
+}
+.img__inner{
+  width: 300px;
+  height:150px;
+  margin:3px;
+}
+.preço{
+    margin-left: 15px;
+}
+.frete{
+    margin-left: 15px;
+}
+.inform{
+    margin-left: 15px;
+}
+.escrfrete{
+    margin-left: 15px;
+}
+.comprar {
+  width: 100px;
+  height: 35px;
+  margin-left: 1380px;
+}
