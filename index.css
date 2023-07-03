@@ -38,10 +38,12 @@ body {
 .imagemluffy {
   width: 400px;
   height: 200px;
+  border-radius: 20px;
 }
 .imagemzoro {
   width: 400px;
   height: 200px;
+  border-radius: 20px;
 }
 .luffy {
   font-size: 40px;
@@ -54,6 +56,7 @@ body {
 .imagemlaw {
   width: 400px;
   height: 200px;
+  border-radius: 20px;
 }
 .law {
   font-size: 40px;
@@ -62,6 +65,7 @@ body {
 .imagemmanda {
   width: 400px;
   height: 200px;
+  border-radius: 20px;
 }
 .mandaloriano {
   font-size: 40px;
